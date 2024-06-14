@@ -1,0 +1,15 @@
+* {
+	font-family: Oswald;
+	font-weight: 100;
+}
+
+.contact-form{
+	font-size: 20px;
+	background-color: #34A300;
+	width: 100%;
+}
+
+.contact-form__h2 {
+	font-size: 2em;
+	color: grey;
+	  }
